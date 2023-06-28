@@ -48,7 +48,8 @@
 
 ## 目次
 
-1. [Azure Open AI リソースの作成](Ex01.md)
+1. [**Azure Open AI リソースの作成**](Ex01.md)
+2. [**Microsoft Bot Framework と Azure OpenAI チャット ボットの統合**](Ex02.md)
 
 
 
