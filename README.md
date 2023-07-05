@@ -11,7 +11,7 @@
 
 このチュートリアルを実施するには以下の環境が必要です。
 
-- [Microsoft Azure サブスクリプション](https://azure.microsoft.com/ja-jp/free/) と Azure Open AI サービスの[利用資格]()
+- **[Microsoft Azure サブスクリプション](https://azure.microsoft.com/ja-jp/free/) と Azure Open AI サービスの[利用資格](https://aka.ms/oaiapply)**
 
     【重要】
 
@@ -22,14 +22,13 @@
     [Azure OpenAI Service へのアクセス申請](https://aka.ms/oaiapply)
 
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [**Visual Studio Code**](https://code.visualstudio.com/)
 
     Visual Studio Code から Azure のリソースを作成するための以下の拡張もインストールしてください。
-
     - [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
 
 
-- [Node.js](https://nodejs.org/ja/)
+- [**Node.js**](https://nodejs.org/ja/)
 
     【重要】
 
@@ -40,13 +39,13 @@
     詳しくは以下のドキュメントを参照してください。
 
     - [nvm-windows のインストール](https://learn.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-windows#install-nvm-windows-nodejs-and-npm)
-
     - [nvm のインストール](https://learn.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-wsl#install-nvm-nodejs-and-npm)
 
-- [Bot Framework Emulator](https://github.com/microsoft/BotFramework-Emulator)
+- [**Bot Framework Emulator**](https://github.com/microsoft/BotFramework-Emulator)
 
+<br>
 
-## 目次
+## 演習
 
 1. [**Azure Open AI リソースの作成**](Ex01.md)
 2. [**Microsoft Bot Framework と Azure OpenAI チャット ボットの統合**](Ex02.md)
