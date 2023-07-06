@@ -76,10 +76,18 @@
 
     - [タスク 2 : Bot Framework ボットと OpenAI ボットの統合](Ex02.md#%E3%82%BF%E3%82%B9%E3%82%AF-2--bot-framework-%E3%83%9C%E3%83%83%E3%83%88%E3%81%A8-openai-%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E7%B5%B1%E5%90%88)
 
-    - [タスク 3 : Bot Framework SDK で作成したボット プロジェクトの編集]()
+    - [タスク 3 : Bot Framework SDK で作成したボット プロジェクトの編集](Ex02.md#%E3%82%BF%E3%82%B9%E3%82%AF-3--bot-framework-sdk-%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E3%83%9C%E3%83%83%E3%83%88-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E7%B7%A8%E9%9B%86)
 
 
 3. [**Bot Framework ボットアプリケーションのデプロイ**](Ex03.md)
+
+    - [タスク 1 : Bot Service の作成](Ex03.md#%E3%82%BF%E3%82%B9%E3%82%AF-1--bot-service-%E3%81%AE%E4%BD%9C%E6%88%90)
+
+    - [タスク 2 : ボット アプリケーションへの ID 設定と Azure App Service へのデプロイ](Ex03.md#%E3%82%BF%E3%82%B9%E3%82%AF-2--%E3%83%9C%E3%83%83%E3%83%88-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%B8%E3%81%AE-id-%E8%A8%AD%E5%AE%9A%E3%81%A8-azure-app-service-%E3%81%B8%E3%81%AE%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4)
+
+    - [タスク 3. Azure Bot に Bot Framework ボットアプリケーションを登録する](Ex03.md#%E3%82%BF%E3%82%B9%E3%82%AF-3-azure-bot-%E3%81%AB-bot-framework-%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E7%99%BB%E9%8C%B2%E3%81%99%E3%82%8B)
+
+    - [さまざまなメッセージング プラットフォームにボットを公開する方法について]()
 
 <br>
 
