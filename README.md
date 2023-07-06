@@ -32,12 +32,9 @@
 
 - **[Microsoft Azure サブスクリプション](https://azure.microsoft.com/ja-jp/free/) と Azure Open AI サービスの[利用資格](https://aka.ms/oaiapply)**
 
-    >【重要】
-    > 現在、Azure Open AI の利用は Microsoft と既存のパートナーシップ関係があるお客様、リスクの低いユース ケース、軽減策の取り入れに取り組んでいるお客様に制限されており、**利用には申請が必要**です。
+    >【重要】現在、Azure Open AI の利用は Microsoft と既存のパートナーシップ関係があるお客様、リスクの低いユース ケース、軽減策の取り入れに取り組んでいるお客様に制限されており、**利用には申請が必要**です。申請については、以下の申請フォームに記載されています。 利用を開始するにはこちらからお申し込みください。
 
-    > 申請については、以下の申請フォームに記載されています。 利用を開始するにはこちらからお申し込みください。
-    
-    > - [**Azure OpenAI Service へのアクセス申請**](https://aka.ms/oaiapply)
+    - [**Azure OpenAI Service へのアクセス申請**](https://aka.ms/oaiapply)
 
 
 - [**Visual Studio Code**](https://code.visualstudio.com/)
@@ -48,14 +45,12 @@
 
 - [**Node.js**](https://nodejs.org/ja/)
 
-    > 【重要】
-    > 現状、Node.js のバージョンの 17 以降では、Bot Framework SDK が正常に動作しないため、[**Node.js のバージョンは 16 以前**](https://nodejs.org/download/release/v16.20.1/)を使用してください。
-
+    > 【重要】現状、Node.js のバージョンの 17 以降では、Bot Framework SDK が正常に動作しないため、[**Node.js のバージョンは 16 以前**](https://nodejs.org/download/release/v16.20.1/)を使用してください。
     > ローカル環境で Node.js のバージョンを任意で切り替えるには Windows では [**nvm-windows**](https://github.com/coreybutler/nvm-windows) 、Mac では [nvm](https://github.com/nvm-sh/nvm) を使用すると便利です。
-
     > 詳しくは以下のドキュメントを参照してください。
 
     - [**nvm-windows のインストール**](https://learn.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-windows#install-nvm-windows-nodejs-and-npm)
+
     - [**nvm のインストール**](https://learn.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-wsl#install-nvm-nodejs-and-npm)
 
 - [**Bot Framework Emulator**](https://github.com/microsoft/BotFramework-Emulator)
