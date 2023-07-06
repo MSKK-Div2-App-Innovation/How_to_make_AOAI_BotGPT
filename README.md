@@ -6,18 +6,21 @@
 
 このチュートリアルでは、Azure での Open AI リソースの作成から Microsoft Bot Framework を使用したローカル環境でのチャットボットの作成、Azure Bot Service へのデプロイまでを行います。
 
+このチュートリアルを完了すると、作成したチャットボットをさまざまなメッセージング プラットフォームに公開する準備が整います。
+
+![チュートリアルで作成する構成図](images/23July_Channel_AzureBot_tutrial.png)
+
 ## 対象者
 
 このチュートリアルは以下の知識がある方を対象としています。
 
 * **Microsoft Azure の基本的な知識**
 
-    Azure のリソースを作成、操作するための基本的な(MCP [AZ-900](https://learn.microsoft.com/ja-jp/certifications/exams/az-900/) 程度の)知識があることを前提としています。
+    Azure のリソースを作成、操作するための基本的な(MCP [AZ-900](https://learn.microsoft.com/ja-jp/certifications/exams/az-900/) 程度の)知識が必要です。
 
 * **Visual Studio Code を使用したコーディング経験**
 
-    このチュートリアルでは、Visual Studio Code を使用して Bot Framework ボットアプリケーションを作成します。Visual Studio Code でのコーディング経験があることを前提としています。
-
+    このチュートリアルでは、Visual Studio Code を使用して Bot Framework ボットアプリケーションを作成します。Visual Studio Code でのコーディング経験が必要です。
 
 
 
