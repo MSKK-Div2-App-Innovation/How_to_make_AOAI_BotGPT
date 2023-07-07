@@ -65,6 +65,10 @@
     - [タスク 2 : Azure OpenAI Studio へのモデルのデプロイ](Ex01.md#%E3%82%BF%E3%82%B9%E3%82%AF-2--azure-openai-studio-%E3%81%B8%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4)
 
     - [タスク 3 : Azure OpenAI Studio で作成したチャットボットを Azure App Service にデプロイ](Ex01.md#%E3%82%BF%E3%82%B9%E3%82%AF-3---azure-openai-studio-%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%82%92-azure-app-service-%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4)
+
+
+    - [その他 : 独自データの追加](Ex01.md#%E3%81%9D%E3%81%AE%E4%BB%96--%E7%8B%AC%E8%87%AA%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%BF%BD%E5%8A%A0)
+
 2. [**Microsoft Bot Framework と Azure OpenAI チャット ボットの統合**](Ex02.md)
 
     - [タスク 1 : Bot Framework SDK を使用した基本的なチャットボットの作成](Ex02.md#%E3%82%BF%E3%82%B9%E3%82%AF-1--bot-framework-sdk-%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BD%9C%E6%88%90)
