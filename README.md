@@ -1,4 +1,4 @@
-# Azure Open API Service GPT3.5 AI Bot 作成チュートリアル
+# Azure Open AI Service GPT3.5 と Bot Framework による AI チャットボット 作成チュートリアル
 
 ## 概要
 
